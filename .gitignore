@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.build/
+dist/
+.env*
+*.pem
+*.key
+*.log
+settings.json
+status.json
+backups/
+local-assets/
